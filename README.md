@@ -18,7 +18,7 @@ If you prefer to train your own model, you can download the 'Fruit and Vegetable
 1. Click on this [link](https://www.kaggle.com/datasets/kritikseth/fruit-and-vegetable-image-recognition) to access the dataset on Kaggle.
 2. Download the ZIP file containing the dataset.
 3. Extract the contents of the ZIP folder and place them in the "DataSet" folder within this repository.
-4. In the 'DataSet' folder, you will find a list of fruit names. This list represents the number of fruit classes used in the model.[View File](DataSet\fruits_classes.txt)
+4. In the 'DataSet' folder, you will find a list of fruit names [View File](DataSet\fruits_classes.txt). This list represents the number of fruit classes used in the model.
 
 ## Folder Information
 
