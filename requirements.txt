@@ -1,0 +1,6 @@
+tensorflow
+numpy
+beautifulsoup4
+requests
+Pillow
+matplotlib

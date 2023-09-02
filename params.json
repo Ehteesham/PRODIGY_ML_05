@@ -1,0 +1,20 @@
+{
+    "img_params": {
+        "img_height": 150,
+        "img_width": 150
+    },
+    "dir": {
+        "train_dataset": "DataSet/train",
+        "val_dataset": "DataSet/validation",
+        "test_dataset": "DataSet/test",
+        "model_path": "model/food_recognition.h5"
+    },
+    "model_params": {
+        "epochs": 50,
+        "batch_size": 32
+    },
+
+    "app_params":{
+        "app_img_size": 250
+    }
+}
